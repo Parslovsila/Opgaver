@@ -24,6 +24,8 @@ namespace Opg04
             Double gennemsnit = total / løn.Length;
 
             Console.WriteLine(gennemsnit.ToString("C2"));
+
+
             Console.ReadKey();
 
         }

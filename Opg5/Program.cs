@@ -11,6 +11,7 @@ namespace Opg5
         static void Main(string[] args)
         {
 
+            // HEKJ
             String ForNavn = "Mikkel";
             String EfterNavn = "Cronberg";
             Console.WriteLine(String.Concat(ForNavn," " , EfterNavn));

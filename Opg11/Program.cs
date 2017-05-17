@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Opg09
+namespace Opg11
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // Beregn Array
+            //Terning Off og privat Medlemmer
+
 
 
         }
